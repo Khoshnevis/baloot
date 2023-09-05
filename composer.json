@@ -1,12 +1,12 @@
 {
-    "name": "sanjabteam/baloot",
+    "name": "khoshnevis/baloot",
     "description": "Laravel helper package for iranians",
     "keywords": [
         "laravel",
         "sanjabteam",
         "helpers"
     ],
-    "homepage": "https://github.com/sanjabteam/baloot",
+    "homepage": "https://github.com/khoshnevis/baloot",
     "license": "MIT",
     "type": "library",
     "authors": [
